@@ -4,7 +4,7 @@
 </div>
 
 <h3>🧰 Tecnologies I use:</h2>
-<img src="https://skillicons.dev/icons?i=dotnet,ts,js,nodejs,react,vite,py,visualstudio,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=dotnet,ts,js,nodejs,react,vite,py,laravel,visualstudio,vscode&perline=12" />
 
 <h3>🏅 Certificates:</h2>
 <ul>
