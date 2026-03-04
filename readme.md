@@ -13,8 +13,8 @@
 
 <h3>📈 GitHub Stats:</h3>
 <div>
-  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=RenanFacina&show_icons=true&theme=github_dark"/>
-  <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFacina&layout=donut&theme=github_dark"/>
+  <img height="220" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=RenanFacina&show_icons=true&theme=github_dark"/>
+  <img height="195" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RenanFacina&layout=donut&theme=github_dark"/>
 </div>
 
 <br/>
