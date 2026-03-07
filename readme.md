@@ -9,6 +9,7 @@
 <h3>🏅 Certificates:</h2>
 <ul>
   <li><a href="https://www.sp.senai.br/consulta-certificado?qrcode=0006012/6124355">Competência Transversal - Lógica de Programação</a></li>
+  <li><a href="https://www.sp.senai.br/consulta-certificado?qrcode=11824133775/14482508">Implantação de Serviços em Nuvem - Microsoft AZ-900</a></li>
 </ul>
 
 <h3>📈 GitHub Stats:</h3>
